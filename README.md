@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinghacker0&layout=compact&show_icons=true&theme=radical)
+![url](https://s24.picofile.com/file/8451020068/IMG_20220619_WA0021.jpg)

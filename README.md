@@ -1,7 +1,6 @@
-
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/ama.player0000"><img src="AMA.png" alt="amir mohammad abolfathy" width="200"></a>
+  <a href="https://instagram.com/ama.player0000"><img src="https://s24.picofile.com/file/8451914234/AMA.png" alt="amir mohammad abolfathy" width="200"></a>
 </h1>
   <br>
 <h2 align="center">

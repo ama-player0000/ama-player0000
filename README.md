@@ -18,6 +18,7 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%231e1e1e.svg?style=for-the-badge&logo=php&logoColor=#00F7FF" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%231e1e1e.svg?style=for-the-badge&logo=WordPress&logoColor=cyan" />
 <img alt="Git" src="https://img.shields.io/badge/git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
+<img alt="GitHub" src="https://img.shields.io/badge/github-%231e1e1e.svg?style=for-the-badge&logo=github&logoColor=inactive" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%231e1e1e.svg?style=for-the-badge&logo=mysql&logoColor=important" />
 <img alt="Network" src="https://img.shields.io/badge/Network +-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
 </p>

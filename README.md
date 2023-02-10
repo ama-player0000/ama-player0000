@@ -3,7 +3,7 @@
   <a href="https://instagram.com/ama.player0000"><img src="https://s24.picofile.com/file/8451914234/AMA.png" alt="amir mohammad abolfathy" width="200"></a>
 </h1>
 
-<h4 align="center">This is AMIR! A back end developer</h4>
+<h3 align="center">AMA It is active in back-end and front-end development </h3>
 
 ## My expertise
 

@@ -25,14 +25,11 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram 1-%23FF00AF.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://t.me/ama_player0000">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF00AF.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/ama.player0000">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23006bff.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </p>
 
-### project
-<p align="center">
+### My projects
+<p>
   ###################
 </p>

@@ -4,7 +4,7 @@
 </h1>
   <br>
 <h2 align="center">
-  amir mohammad abolfathy </br>(ama)
+  ( ama )
 </h2>
 
 <h4 align="center">This is AMIR! A back end developer</h4>

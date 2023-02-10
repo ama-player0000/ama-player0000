@@ -7,18 +7,16 @@
 
 ## My expertise
 
-<p>
-
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%231e1e1e.svg?style=for-the-badge&logo=html5&logoColor=#FF5000" /><img alt="Network" src="https://img.shields.io/badge/Network +-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%231e1e1e.svg?style=for-the-badge&logo=html5&logoColor=#FF5000" /><img alt="Network" src="https://img.shields.io/badge/Network-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
   <br>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231e1e1e.svg?style=for-the-badge&logo=Css3&logoColor=blue" /><img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" />
   <br>
-<img alt="PHP" src="https://img.shields.io/badge/php-%231e1e1e.svg?style=for-the-badge&logo=php&logoColor=#00F7FF" /><img alt="Git" src="https://img.shields.io/badge/git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
+<img alt="PHP" src="https://img.shields.io/badge/php-%231e1e1e.svg?style=for-the-badge&logo=php&logoColor=#00F7FF" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
   <br>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%231e1e1e.svg?style=for-the-badge&logo=mysql&logoColor=important" /><img alt="GitHub" src="https://img.shields.io/badge/github-%231e1e1e.svg?style=for-the-badge&logo=github&logoColor=inactive" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%231e1e1e.svg?style=for-the-badge&logo=mysql&logoColor=important" /><img alt="GitHub" src="https://img.shields.io/badge/Github-%231e1e1e.svg?style=for-the-badge&logo=github&logoColor=inactive" />
   <br>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%231e1e1e.svg?style=for-the-badge&logo=WordPress&logoColor=cyan" /><img alt="Android" src="https://img.shields.io/badge/android-%231e1e1e.svg?style=for-the-badge&logo=android&logoColor=green" />
-  <br>
 </p>
 
 ## My social networks

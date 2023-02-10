@@ -10,9 +10,13 @@
 <p>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%231e1e1e.svg?style=for-the-badge&logo=html5&logoColor=#FF5000" />
+  <br>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231e1e1e.svg?style=for-the-badge&logo=css3&logoColor=blue" />
+  <br>
 <img alt="PHP" src="https://img.shields.io/badge/php-%231e1e1e.svg?style=for-the-badge&logo=php&logoColor=#00F7FF" />
+  <br>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%231e1e1e.svg?style=for-the-badge&logo=WordPress&logoColor=cyan" />
+  <br>
 <img alt="Git" src="https://img.shields.io/badge/git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
 <img alt="GitHub" src="https://img.shields.io/badge/github-%231e1e1e.svg?style=for-the-badge&logo=github&logoColor=inactive" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%231e1e1e.svg?style=for-the-badge&logo=mysql&logoColor=important" />

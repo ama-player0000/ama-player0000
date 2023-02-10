@@ -22,7 +22,7 @@
 ### My social networks
 <p align="center">
 <a href="https://instagram.com/ama.player0000">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram 1-%23FF00AF.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF00AF.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://t.me/ama_player0000">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23006bff.svg?style=for-the-badge&logo=Telegram&logoColor=white" />

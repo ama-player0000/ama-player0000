@@ -23,8 +23,8 @@
 <a href="https://instagram.com/ama.player0000">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram 1-%23FF00AF.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://instagram.com/abolfathi.ir">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram 2-%23E40006.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<a href="https://t.me/ama_player0000">
+    <img alt="Telegram" src="https://img.shields.io/badge/Instagram 1-%23FF00AF.svg?style=for-the-badge&logo=Telegram&logoColor=cyan" />
 </a>
 <a href="https://www.youtube.com/channel/ama.player0000">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />

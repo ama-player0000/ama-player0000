@@ -2,10 +2,6 @@
   <br>
   <a href="https://instagram.com/ama.player0000"><img src="https://s24.picofile.com/file/8451914234/AMA.png" alt="amir mohammad abolfathy" width="200"></a>
 </h1>
-  <br>
-<h5 align="center">
-  ( ama )
-</h5>
 
 <h4 align="center">This is AMIR! A back end developer</h4>
 

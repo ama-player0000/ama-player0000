@@ -29,6 +29,13 @@
 </a>
 </p>
 
+## about me
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" />
+  <br><br>
+### Number one 👍 <br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ama-player0000&theme=radical&repo=calculator_v2" />
+</p>
 ### My projects
 <p>
   <span>* Calculator project with PHP language, neat and simple appearance environment version 1.0 => </span>

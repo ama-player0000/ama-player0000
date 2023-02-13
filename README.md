@@ -31,9 +31,9 @@
 
 ## about me
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ama-player0000&theme=radical&show_icons=true" />
   <br><br>
-### Number one 👍 <br>
+Number one 👍 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ama-player0000&theme=radical&repo=calculator_v2" />
 </p>
 ### My projects

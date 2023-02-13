@@ -46,3 +46,9 @@ Number one 👍 <br>
   <span>* Calculator project with PHP language, beautiful and clean environment in version 2.0 => </span>
   <a href="https://github.com/ama-player0000/calculator_v2">Calculator 2.0</a>
 </p>
+
+## Donate ❤️🌹🤩
+<p align="ltr">
+  <img height="50" width="50" src="https://cdn.simpleicons.org/bitcoin" />
+  <span> : Soon ...</span>
+</p>

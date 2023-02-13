@@ -36,7 +36,9 @@
 Number one 👍 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ama-player0000&theme=radical&repo=calculator_v2" />
 </p>
-### My projects
+
+## My projects
+
 <p>
   <span>* Calculator project with PHP language, neat and simple appearance environment version 1.0 => </span>
   <a href="https://github.com/ama-player0000/calculator_v1">Calculator 1.0</a>

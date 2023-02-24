@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/ama.player0000"><img src="https://s24.picofile.com/file/8451914234/AMA.png" alt="amir mohammad abolfathy" width="200"></a>
+  <a href="https://instagram.com/ama.player0000"><img src="https://github.com/ama-player0000/signin-signup/blob/main/pictures/ama.png?raw=true" alt="amir mohammad abolfathy" width="500"></a>
 </h1>
 
 <h3 align="center">AMA is active in back-end and front-end development </h3>

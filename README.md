@@ -42,9 +42,7 @@ New Source Code 🤩 <br>
 
 ## My projects
 
-- Calculator project with PHP language, neat and simple appearance environment version 1.0 =><a href="https://github.com/ama-player0000/calculator_v1">Calculator 1.0</a>
-
-- Calculator project with PHP language, beautiful and clean environment in version 2.0 => <a href="https://github.com/ama-player0000/calculator_v2">Calculator 2.0</a>
+```Soon ...```
 
 ## Donate ❤️🌹🤩
 <p align="ltr">

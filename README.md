@@ -13,16 +13,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
 </p>
 
-### My social networks
-<p align="center">
-<a href="https://instagram.com/ama.player0000">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF00AF.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://t.me/ama_player0000">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23006bff.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
-</a>
-</p>
-
 ## about me
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ama-player0000&theme=radical&show_icons=true" />

@@ -8,11 +8,9 @@
 ## My expertise
 
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%231e1e1e.svg?style=for-the-badge&logo=html5&logoColor=#FF5000" /><img alt="Network" src="https://img.shields.io/badge/Network-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
+<img alt="React" src="https://img.shields.io/badge/React-%231e1e1e.svg?style=for-the-badge&logo=React&logoColor=#00F7FF" /><img alt="Network" src="https://img.shields.io/badge/Network-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
   <br>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231e1e1e.svg?style=for-the-badge&logo=Css3&logoColor=blue" /><img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" />
-  <br>
-<img alt="React" src="https://img.shields.io/badge/React-%231e1e1e.svg?style=for-the-badge&logo=React&logoColor=#00F7FF" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
 </p>
 
 ### My social networks

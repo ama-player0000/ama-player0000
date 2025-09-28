@@ -10,7 +10,7 @@
   <br>
 <img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
 <br>
-  <span><img alt="Circuit" src="https://cdn-icons-png.flaticon.com/512/4350/4350670.png" width="64px"/> Circuit Creator</span>
+  <span><img alt="Circuit" src="https://cdn-icons-png.flaticon.com/512/4350/4350670.png" width="32px"/> Circuit Creator</span>
 </p>
 
 ## about me

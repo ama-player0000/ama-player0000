@@ -19,10 +19,10 @@
 ## My projects
 
 ```Yadgram Plus - یادگرام پلاس پلتفرم آنلاین آموزشی```
-<span>insect <a href="https://github.com/ama-player0000/insect">GO</a></span>
 
-<!-- ## Donate ❤️🌹🤩
-<p align="ltr">
-  <img height="50" width="50" src="https://cdn.simpleicons.org/bitcoin" />
-  <span> : Soon ...</span>
-</p> -->
+<p></p>
+
+```insect``` <a href="https://github.com/ama-player0000/insect">GO</a>
+
+<p></p>
+

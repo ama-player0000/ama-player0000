@@ -19,7 +19,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ama-player0000&theme=radical&show_icons=true" />
   <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ama-player0000&layout=compact&langs_count=10&hide=html,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ama-player0000&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" />
   <br><br>
 
 

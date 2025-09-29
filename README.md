@@ -5,7 +5,7 @@
   <a href="https://instagram.com/ama.player0000"><img src="https://github.com/ama-player0000/ama-player0000/blob/main/ama.png?raw=true" alt="amir mohammad abolfathy" width="500"></a>
 </h1>
 
-## My expertise
+<!-- ## My expertise
 
 <p align="center">
 <img alt="React/TS/JS" src="https://img.shields.io/badge/React/TS/JS-%231e1e1e.svg?style=for-the-badge&logo=React&logoColor=#00F7FF" /><img alt="Network" src="https://img.shields.io/badge/Network-%231e1e1e.svg?style=for-the-badge&logo=RSS&logocolor=yellow" />
@@ -13,12 +13,15 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-%231e1e1e.svg?style=for-the-badge&logo=Python&logocolor=yellow" /><img alt="Git" src="https://img.shields.io/badge/Git-%231e1e1e.svg?style=for-the-badge&logo=git&logoColor=orange" />
 <br>
   <span style="justify-content:center;"><img alt="Circuit" src="https://cdn-icons-png.flaticon.com/512/4350/4350670.png" width="32px"/> Circuit Creator</span>
-</p>
+</p> -->
 
 ## about me
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ama-player0000&theme=radical&show_icons=true" />
   <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ama-player0000&layout=compact&langs_count=10&hide=html,css" />
+  <br><br>
+
 
 ## My projects
 

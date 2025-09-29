@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=50&pause=5000&color=F7005D&center=true&vCenter=true&width=435&lines=Haj+Amir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1000&pause=1000&color=00D1F7&center=true&vCenter=true&width=635&lines=%E2%9A%9B%EF%B8%8F+Front%3A+React.%F0%9F%87%AF%E2%80%8C%F0%9F%87%B8%E2%80%8C+%2C+Next.%F0%9F%87%AF%E2%80%8C%F0%9F%87%B8%E2%80%8C+%2C+Tailwind;Bootstrap+%2C+Materialize+%2C+Foundation+;%3C%2F%3E+Back-end%3A+Laravel+PHP;%F0%9F%8C%90+Language%3A+Python+%2C+Javascript+;PHP+%2C+shell+Script+%2C+C%2B%2B+Arduino;%F0%9F%A6%84+Other+%3A+Tkinter+%2C+PyQt+%2C+freeze+and;Electronics+Circuit+Creator+%E2%9A%A1)](https://git.io/typing-svg)
 <h1 align="center">
   <br>
   <a href="https://instagram.com/ama.player0000"><img src="https://github.com/ama-player0000/ama-player0000/blob/main/ama.png?raw=true" alt="amir mohammad abolfathy" width="500"></a>
